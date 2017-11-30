@@ -6,5 +6,5 @@ This interactive can provide following customizable analysis:
 ### Time series analysis
 ### Global choropleth map
 ### Regional heatmap
-![image](https://{https://github.com/zhuoqinyu/Global_Terrorism/blob/master/time_series_analysis.pdf})
+![image](https://raw.github.com/zhuoqinyu/Global_Terrorism/blob/master/time_series_analysis.pdf)
   
