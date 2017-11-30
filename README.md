@@ -2,7 +2,7 @@
 
 During those 45 years, there have been 400,000 deaths and 500,000 wounds caused by terrorism worldwide. It means 23 lives lost every day due to various terrorism attacks.
 
-This interactive can provide following customizable analysis:
+This interactive tool can provide following customizable analysis:
 ### Time series analysis
 ### Global choropleth map
 ### Regional heatmap
